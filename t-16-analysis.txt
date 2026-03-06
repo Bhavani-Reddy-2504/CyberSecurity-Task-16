@@ -1,0 +1,24 @@
+Task 16 – Incident Response & Security Breach Simulation
+
+Objective
+The objective of this task was to simulate a security incident and analyze system logs to identify suspicious activity and respond appropriately.
+
+Incident Simulation
+A brute force login attempt was simulated by generating multiple failed login attempts using a test user account.
+
+Log Analysis
+Authentication logs were analyzed to detect suspicious login activity. Multiple failed login attempts indicated a potential brute force attack targeting the system's authentication mechanism.
+
+Incident Classification
+Attack Type: Brute Force Login Attempt
+Severity Level: Medium
+Target: Linux Authentication System
+
+Response Actions
+1. Suspicious activity was detected through log analysis.
+2. The suspicious user account was locked to contain the incident.
+3. The account was removed to eliminate the threat source.
+4. System updates were applied to ensure system security.
+
+Conclusion
+The task demonstrated how incident response teams identify, analyze, contain, and remediate security incidents using system logs and standard security practices.
